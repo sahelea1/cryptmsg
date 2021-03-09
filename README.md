@@ -1,2 +1,5 @@
 # cryptmsg
 CryptMsg
+A new kind of Encrypted Chat Messenger.
+Donate XMR:
+8AbdbxZmNYcMdf5Vt3jEB1X1a6CvKoy8ah4emZPdTbqwff9bEKZ83JDXtroTv95FRDFkJBeXDUCuK8Q9CqEozM3K1FRGU1e
